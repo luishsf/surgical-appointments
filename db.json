@@ -1,0 +1,155 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "medico": {
+                "nome": "Afonso Silva"
+            },
+            "paciente": {
+                "nome": "Gustavo Santos",
+                "dataNascimento": "1983-08-21"
+            },
+            "dataCriacao": "2024-09-25T10:00:00Z"
+        },
+        {
+            "id": 2,
+            "medico": {
+                "nome": "Fernando Santos"
+            },
+            "paciente": {
+                "nome": "Jurandir Santos",
+                "dataNascimento": "1999-08-21"
+            },
+            "dataCriacao": "2024-09-25T11:00:00Z"
+        },
+        {
+            "id": 3,
+            "medico": {
+                "nome": "Clara Oliveira"
+            },
+            "paciente": {
+                "nome": "Lucas Almeida",
+                "dataNascimento": "1995-06-15"
+            },
+            "dataCriacao": "2024-09-25T12:00:00Z"
+        },
+        {
+            "id": 4,
+            "medico": {
+                "nome": "Roberto Costa"
+            },
+            "paciente": {
+                "nome": "Mariana Ferreira",
+                "dataNascimento": "1988-03-12"
+            },
+            "dataCriacao": "2024-09-25T13:00:00Z"
+        },
+        {
+            "id": 5,
+            "medico": {
+                "nome": "Patrícia Lima"
+            },
+            "paciente": {
+                "nome": "Felipe Rocha",
+                "dataNascimento": "2000-11-09"
+            },
+            "dataCriacao": "2024-09-25T14:00:00Z"
+        },
+        {
+            "id": 6,
+            "medico": {
+                "nome": "Marcelo Dias"
+            },
+            "paciente": {
+                "nome": "Ana Clara",
+                "dataNascimento": "1992-01-25"
+            },
+            "dataCriacao": "2024-09-25T15:00:00Z"
+        },
+        {
+            "id": 7,
+            "medico": {
+                "nome": "Sofia Martins"
+            },
+            "paciente": {
+                "nome": "Rafael Gomes",
+                "dataNascimento": "1985-09-30"
+            },
+            "dataCriacao": "2024-09-25T16:00:00Z"
+        },
+        {
+            "id": 8,
+            "medico": {
+                "nome": "Mateus Costa"
+            },
+            "paciente": {
+                "nome": "Juliana Martins",
+                "dataNascimento": "1991-05-17"
+            },
+            "dataCriacao": "2024-09-26T09:30:00Z"
+        },
+        {
+            "id": 9,
+            "medico": {
+                "nome": "Fernando Santos"
+            },
+            "paciente": {
+                "nome": "Carlos Pereira",
+                "dataNascimento": "1987-12-03"
+            },
+            "dataCriacao": "2024-09-26T11:00:00Z"
+        },
+        {
+            "id": 10,
+            "medico": {
+                "nome": "Clara Oliveira"
+            },
+            "paciente": {
+                "nome": "Roberto Lima",
+                "dataNascimento": "1994-02-22"
+            },
+            "dataCriacao": "2024-09-26T14:15:00Z"
+        },
+        {
+            "id": 11,
+            "medico": {
+                "nome": "Roberto Costa"
+            },
+            "paciente": {
+                "nome": "Tatiane Sousa",
+                "dataNascimento": "1990-07-29"
+            },
+            "dataCriacao": "2024-09-27T08:45:00Z"
+        },
+        {
+            "id": 12,
+            "medico": {
+                "nome": "Patrícia Lima"
+            },
+            "paciente": {
+                "nome": "Diego Nascimento",
+                "dataNascimento": "1984-04-10"
+            },
+            "dataCriacao": "2024-09-27T10:30:00Z"
+        },
+        {
+            "id": 13,
+            "medico": {
+                "nome": "Marcelo Dias"
+            },
+            "paciente": {
+                "nome": "Letícia Almeida",
+                "dataNascimento": "1996-08-15"
+            },
+            "dataCriacao": "2024-09-27T13:00:00Z"
+        }
+    ],
+    "paginacao": {
+        "paginaAtual": 1,
+        "itensPorPagina": 6,
+        "totalDePaginas": 3,
+        "totalDeItens": 13,
+        "next_page_url": "/api/items?page=2",
+        "prev_page_url": null
+    }
+}
